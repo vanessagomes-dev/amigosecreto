@@ -1,6 +1,6 @@
 # 🎉 Sorteador de Amigo Secreto
 
-![Capa do Projeto](assets/amigo-secreto.png)
+![Capa do Projeto](desafio_amigo_secreto/assets/amigo-secreto.png)
 
 ![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen) ![Badge Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue)
 
