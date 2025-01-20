@@ -12,9 +12,8 @@
 3. [Funcionalidades e Demonstração](#-funcionalidades-e-demonstração)
 4. [Acesso ao Projeto](#-acesso-ao-projeto)
 5. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-6. [Pessoas Contribuidoras](#-pessoas-contribuidoras)
-7. [Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)
-8. [Licença](#-licença)
+6. [Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)
+7. [Licença](#-licença)
 
 ---
 
@@ -49,10 +48,6 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/seu
 
 ---
 
-## 👩‍💻 Pessoas Contribuidoras
-- Nenhuma contribuição externa no momento.
-
----
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 - **Vanessa Gomes**  
